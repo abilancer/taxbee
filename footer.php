@@ -1,15 +1,15 @@
 
-<a href="https://api.whatsapp.com/send?phone=+91 99942 00080&text='"  target="_blank" class="fixed group z-50 bottom-12 right-8 bg-emerald-500 p-3 md:w-16 md:h-16 w-10 h-10   rounded-full drop-shadow-lg flex justify-center items-center text-white md:text-3xl text-2xl hover:bg-emerald-600 hover:drop-shadow-2xl duration-100 md:hover:scale-110 hover:scale-105"><i class="fa-brands fa-whatsapp"></i><span class="tooltip-text bg-emerald-300 p-2 -mt-2 -ml-6 rounded hidden uppercase text-center text-sm text-black group-hover:block absolute  py-2 px-6 z-50  font-semibold">enquire with whatsapp</span></a>
+<a href="https://api.whatsapp.com/send?phone=+91 99942 00080&text='"  target="_blank" class="fixed group z-50 bottom-12 right-8 bg-emerald-500 p-4 md:w-16 md:h-16 w-10 h-10   rounded-full drop-shadow-lg flex justify-center items-center text-white md:text-3xl text-2xl hover:bg-emerald-600 hover:drop-shadow-2xl duration-100 md:hover:scale-110 hover:scale-105"><i class="fa-brands fa-whatsapp"></i><span class="tooltip-text bg-emerald-300 p-2 -mt-2 -ml-6 rounded hidden uppercase text-center text-sm text-black group-hover:block absolute  py-2 px-6 z-50  font-semibold">enquire with whatsapp</span></a>
 
 
 
 <footer class="bg-gray-800">
 
 <div class="w-full flex flex-col md:flex-row items-center justify-center px-6 mx-auto pt-10 space-y-4 md:space-y-6  bg-gray-800">
-         <div>
+         <div class="space-y-4">
            <h2 class="max-w-7xl text-3xl  font-black text-center md:text-4xl uppercase text-emerald-500 mb-3">Let's build an understanding</h2>
            <h4 class="max-w-7xl text-2xl text-center md:text-3xl text-white tracking-wide mb-2">Are you ready for better,detailed customer insights ?</h4>
-           <p class="max-w-3xl text-center text-white mt-1 mb-3 md:text-lg text-base">Stop making bad business decisions that cost you time and money.Talk to our market research specialist to make an informed business decision.</p>
+           <p class="max-w-3xl text-center text-white mt-1 mb-3 md:text-lg text-base tracking-wider">Stop making bad business decisions that cost you time and money.Talk to our market research specialist to make an informed business decision.</p>
            <div class="flex justify-center ">
            <a href="./contact.php" class="py-3 px-8 text-white bg-emerald-700 rounded-full baseline mb-10 hover:bg-slate-900 uppercase tracking-widest">contact us now</a>
            </div>
@@ -59,7 +59,7 @@
   </div>
 
   <div class="flex flex-col-reverse md:justify-between md:flex-row text-white mt-5 px-12 sm:items-center ">
-   <div class="max-w-md text-sm md:text-base text-center">Copyright © 2021 Taxbee. All Rights Reserved.</div></a>
+   <div class="max-w-md text-sm md:text-base text-center">Copyright © 2022 Taxbee. All Rights Reserved.</div></a>
    <div class="max-w-md text-sm md:text-base mb-2 md:mb-0"><a href="./terms_and_conditions.php"><span>Terms & Conditions</span></a><span class="text-emerald-500 px-2"> | </span><a href="./privacy_policy.php"><span>Privacy Policy</span></a></div>
   </div>
 
