@@ -1,5 +1,5 @@
 
-<a href="https://api.whatsapp.com/send?phone=+91 99942 00080&text='"  target="_blank" class="fixed group z-50 bottom-12 right-8 bg-emerald-500 md:w-[4rem] md:h-[4rem] w-[2.5rem] h-[2.5rem]  rounded-full drop-shadow-lg flex justify-center items-center text-white md:text-3xl text-2xl hover:bg-emerald-600 hover:drop-shadow-2xl duration-100 md:hover:scale-110 hover:scale-105"><i class="fa-brands fa-whatsapp"></i><span class="tooltip-text bg-emerald-300 p-2 -mt-2 -ml-6 rounded hidden uppercase text-center text-sm text-black group-hover:block absolute  py-2 px-6 z-50  font-semibold">enquire with whatsapp</span></a>
+<a href="https://api.whatsapp.com/send?phone=+91 99942 00080&text='"  target="_blank" class="fixed group z-50 bottom-12 right-8 bg-emerald-500 p-2 md:w-16 md:h-16 w-10 h-10   rounded-full drop-shadow-lg flex justify-center items-center text-white md:text-3xl text-2xl hover:bg-emerald-600 hover:drop-shadow-2xl duration-100 md:hover:scale-110 hover:scale-105"><i class="fa-brands fa-whatsapp"></i><span class="tooltip-text bg-emerald-300 p-2 -mt-2 -ml-6 rounded hidden uppercase text-center text-sm text-black group-hover:block absolute  py-2 px-6 z-50  font-semibold">enquire with whatsapp</span></a>
 
 
 
