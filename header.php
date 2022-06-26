@@ -3,7 +3,7 @@
     <div class="relative">
     <div class="flex items-center justify-between">
         <div class="xl:pl-10 pl-3">
-            <a href="./index.php"><img class="w-[90px] h-[45px]" src="./assets//img//logo//taxbee_logo.png"/></a>
+            <a href="./index.php"><img class="w-24" src="./assets//img//logo//taxbee_logo.png"/></a>
         </div>
         <div class="hidden md:flex space-x-8 font-bold">
            <a href="./index.php" class="hover:text-emerald-800 uppercase">home</a>
