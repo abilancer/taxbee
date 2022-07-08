@@ -1,5 +1,6 @@
 <?php
 
+  $name=$email=$result=$content=$phone='';
 
   if (isset($_POST['submit'])){
     require 'phpmail/PHPMailerAutoload.php';
@@ -9,7 +10,6 @@
     $phone = $_POST['phone'];
     
     $mail = new PHPMailer; 
-    $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
     $mail->Port=587;
     $mail->SMTPAuth=true;
@@ -42,7 +42,6 @@
                window.alert(''.$result.'');
                window.location.href='./contact.php';
               </script>");
-      $result="Thanks ".$name." for contacting us. We'll get back to you soon!";
     }
  }
 
